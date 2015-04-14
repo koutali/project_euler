@@ -1,0 +1,84 @@
+a: -61
+b: 971
+number of produced primes: 71
+
+a: -59
+b: 911
+number of produced primes: 70
+
+a: -57
+b: 853
+number of produced primes: 69
+
+a: -55
+b: 797
+number of produced primes: 68
+
+a: -53
+b: 743
+number of produced primes: 67
+
+a: -51
+b: 691
+number of produced primes: 66
+
+a: -49
+b: 641
+number of produced primes: 65
+
+a: -47
+b: 593
+number of produced primes: 64
+
+a: -45
+b: 547
+number of produced primes: 63
+
+a: -43
+b: 503
+number of produced primes: 62
+
+a: -41
+b: 461
+number of produced primes: 61
+
+a: -39
+b: 421
+number of produced primes: 60
+
+a: -37
+b: 383
+number of produced primes: 59
+
+a: -35
+b: 347
+number of produced primes: 58
+
+a: -33
+b: 313
+number of produced primes: 57
+
+a: -31
+b: 281
+number of produced primes: 56
+
+a: -29
+b: 251
+number of produced primes: 55
+
+a: -27
+b: 223
+number of produced primes: 54
+
+a: -25
+b: 197
+number of produced primes: 53
+
+a: -23
+b: 173
+number of produced primes: 52
+
+a: -21
+b: 151
+number of produced primes: 51
+

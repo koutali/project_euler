@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lynchrel_numbers", "lynchrel_numbers\lynchrel_numbers.vcxproj", "{A024B340-E682-48E6-9D1D-5A8CA276EFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A024B340-E682-48E6-9D1D-5A8CA276EFBB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A024B340-E682-48E6-9D1D-5A8CA276EFBB}.Debug|Win32.Build.0 = Debug|Win32
+		{A024B340-E682-48E6-9D1D-5A8CA276EFBB}.Release|Win32.ActiveCfg = Release|Win32
+		{A024B340-E682-48E6-9D1D-5A8CA276EFBB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
